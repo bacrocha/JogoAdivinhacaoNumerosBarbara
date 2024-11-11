@@ -42,13 +42,19 @@ O jogo segue a seguinte estrutura:
 Aqui estão algumas capturas de tela do jogo em execução:
 
 1. **Tela Inicial - Escolha do Intervalo**
-
+<p align="center">
+  <img src="assets/inicioJogo.png">
+</p>
 
 2. **Tela de Jogo - Tentativa do Jogador**
-
+<p align="center">
+  <img src="assets/tentativas.png">
+</p>
 
 3. **Tela de Resumo Final - Jogo Concluído**
-
+<p align="center">
+  <img src="assets/encerramento.png">
+</p>
 
 ## <a name="tecnologias-utilizadas"></a> 🛠️ Tecnologias Utilizadas
 
