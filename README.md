@@ -23,8 +23,9 @@ O objetivo do projeto é criar um jogo interativo de adivinhação de números, 
 3. **Entrada do Jogador**: O jogador pode inserir suas tentativas para adivinhar o número.
 4. **Fornecimento de Dicas**: O programa informa se o número é maior, menor ou igual à tentativa do jogador.
 5. **Contagem de Tentativas**: O sistema mantém um contador de tentativas até que o jogador acerte o número.
-6. **Opção de Sair**: O jogador pode encerrar o jogo a qualquer momento.
-7. **Mensagem de Encerramento**: Exibe o número de tentativas realizadas no final do jogo.
+6. **Limpeza da Tela**: Foi implementado um método `limparTela` que simula a limpeza da tela entre as tentativas. Esse método contribui para uma melhor experiência do usuário, mantendo o console mais organizado e focado nas informações relevantes.
+7. **Opção de Sair**: O jogador pode encerrar o jogo a qualquer momento.
+8. **Mensagem de Encerramento**: Ao final do jogo, é exibido um resumo das tentativas realizadas pelo jogador e o tempo do jogo, permitindo avaliar o desempenho ao longo da partida. Essa mensagem também informa se o número foi adivinhado com sucesso ou se o jogo foi encerrado antes.
 
 ## <a name="estrutura-do-jogo"></a> 🎮 Estrutura do Jogo
 
