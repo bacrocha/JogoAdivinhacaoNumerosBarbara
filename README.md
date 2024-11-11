@@ -36,7 +36,7 @@ O jogo segue a seguinte estrutura:
 - **Repetição do Jogo**: O loop continua até que o jogador acerte ou opte por sair.
 - **Encerramento**: O jogo finaliza quando o número é adivinhado ou o jogador escolhe sair, exibindo a quantidade de tentativas feitas.
 
-## <a name="telas-de-saida"></a> 🖥️ Telas de Saída
+## <a name="telas-de-saída"></a> 🖥️ Telas de Saída
 
 Aqui estão algumas capturas de tela do jogo em execução:
 
