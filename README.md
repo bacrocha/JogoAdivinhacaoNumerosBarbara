@@ -43,17 +43,17 @@ Aqui estão algumas capturas de tela do jogo em execução:
 
 1. **Tela Inicial - Escolha do Intervalo**
 <p align="center">
-  <img src="assets/inicioJogo.png">
+  <img src="assets/inicioJogo.PNG">
 </p>
 
 2. **Tela de Jogo - Tentativa do Jogador**
 <p align="center">
-  <img src="assets/tentativas.png">
+  <img src="assets/tentativas.PNG">
 </p>
 
 3. **Tela de Resumo Final - Jogo Concluído**
 <p align="center">
-  <img src="assets/encerramento.png">
+  <img src="assets/encerramento.PNG">
 </p>
 
 ## <a name="tecnologias-utilizadas"></a> 🛠️ Tecnologias Utilizadas
